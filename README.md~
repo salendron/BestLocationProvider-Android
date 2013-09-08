@@ -1,4 +1,4 @@
-BestLocationProvider-Android
+Simple-Rss2-Android
 ===================
 
 A simple wrapper to get fast and simple location updates on Android from GPS or Network. There is also a DemoApp to test this wrapper.
